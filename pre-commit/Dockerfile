@@ -1,4 +1,4 @@
-FROM hashicorp/terraform:0.12.5 as terraform
+FROM hashicorp/terraform:0.12.6 as terraform
 
 FROM python:3.7-alpine
 
