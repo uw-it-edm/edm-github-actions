@@ -7,4 +7,3 @@ jobs:
     - uses: actions/checkout@master
     - name: build pre-commit image
        run: docker build pre-commit
-u
